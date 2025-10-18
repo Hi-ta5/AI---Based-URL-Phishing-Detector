@@ -1,0 +1,12 @@
+streamlit>=1.20
+pandas
+scikit-learn
+xgboost
+joblib
+numpy
+tqdm
+requests
+urllib3
+matplotlib
+shap
+python-dateutil
